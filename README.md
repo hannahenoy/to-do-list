@@ -1,7 +1,7 @@
 ## To Do List: <a href="https://todo-waterplants.netlify.app/">View demo</a>
 
 <p align="center">
-<img src="https://s11.gifyu.com/images/todo-demo.gif" width="50%">
+<img src="https://s11.gifyu.com/images/todo-demo.gif" width="40%">
 
 A simple and responsive to do list using HTML/CSS and JavaScript. The user can enter tasks, cross out and clear completed items, and clear the entire list.
 
